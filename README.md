@@ -1,8 +1,9 @@
 # PHP MVC Framework
 
-This is a lightweight PHP MVC (Model-View-Controller) framework for building web applications. The framework follows the MVC architectural pattern, separating the application logic from the presentation layer, and promoting code reusability and maintainability..
+This repository contains a lightweight PHP MVC (Model-View-Controller) framework for building web applications. The framework follows the MVC architectural pattern, separating the application logic from the presentation layer, and promoting code reusability and maintainability.
 
 ## Features
+
 * Routing: The framework handles URL routing and dispatches requests to the appropriate controller and method.
 * Controllers: Controllers handle the application logic and pass data to the views.
 * Views: Views are responsible for rendering the user interface using the data provided by the controllers.
